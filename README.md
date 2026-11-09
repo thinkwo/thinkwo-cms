@@ -7,7 +7,7 @@
 
 外贸独立站建站系统 **ThinkWoCMS** 的客户端安装包案例。
 
-> www.jxmpf.com
+> www.jxpmf.com
 
 
 ## 下载
