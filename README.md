@@ -7,7 +7,7 @@
 
 客户案例
 
-> www.jxpmf.com | Quality Custom Parts, Delivered with Precision — From Prototype to Production | JX Manufacturing | JX Manufacturing
+> www.jxpmf.com | Quality Custom Parts, Delivered with Precision — From Prototype to Production | JX Manufacturing
 
 
 ## 下载
