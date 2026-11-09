@@ -5,9 +5,9 @@
 > 本仓库**只存放客户端发行包**，不含开发源码、不含授权服务端（授权站）代码。
 # 案例站点
 
-外贸独立站建站系统 **ThinkWoCMS** 的客户端安装包案例。
+客户案例
 
-> www.jxpmf.com
+> www.jxpmf.com | Quality Custom Parts, Delivered with Precision — From Prototype to Production | JX Manufacturing | JX Manufacturing
 
 
 ## 下载
